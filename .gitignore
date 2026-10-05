@@ -1,0 +1,24 @@
+# Mengabaikan folder data agar tidak pernah ter-upload ke GitHub
+data/
+data/*
+*.csv
+*.xlsx
+*.xls
+*.db
+*.sqlite
+
+# Mengabaikan file log
+*.log
+
+# Mengabaikan environment python (jika ada)
+venv/
+env/
+.venv/
+
+# Mengabaikan file sistem mac
+.DS_Store
+__pycache__/
+*.pyc
+data_colab/
+data_processed/
+*.gz

@@ -1,0 +1,42 @@
+{
+  "n_transaksi": 193899,
+  "n_train_bersih": 129921,
+  "n_uji_bersih": 47452,
+  "rule_flag": 10103,
+  "rule_flag_pct": 5.210444612917034,
+  "ml_flag": 14348,
+  "ml_only": 2068,
+  "zero_value": 7051,
+  "plate_nonstandard": 2763,
+  "dq_index": {
+    "2021": 98.888,
+    "2022": 98.882,
+    "2023": 99.018,
+    "2024": 98.765
+  },
+  "friedman_p": 1.3857973367009573e-09,
+  "pr_auc": {
+    "Aturan": 0.8166,
+    "IF": 0.1777,
+    "LOF": 0.1329,
+    "AE": 0.8623,
+    "Ensemble ML": 0.7479,
+    "Hibrida": 0.973
+  },
+  "roc_auc": {
+    "Aturan": 0.9046,
+    "IF": 0.8722,
+    "LOF": 0.83,
+    "AE": 0.9865,
+    "Ensemble ML": 0.966,
+    "Hibrida": 0.9962
+  },
+  "versions": {
+    "python": "3.13.16",
+    "sklearn": "1.9.1",
+    "pandas": "3.0.5",
+    "numpy": "2.5.3"
+  },
+  "n_seeds": 10,
+  "runtime_s": 531.7
+}

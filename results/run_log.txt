@@ -1,0 +1,19 @@
+[1] transaksi: 193,899 (24.6s)
+[3] rule flag: 10,103 (5.21%); nol-nilai 7,051
+[4] DQ index: {2021: 98.89, 2022: 98.88, 2023: 99.02, 2024: 98.76}
+[7] train bersih 129,921 | uji bersih 47,452 | pool tunggakan 2,280 | pool BBN 10,645
+   seed 0: Aturan AP=0.820 | IF AP=0.177 | LOF AP=0.136 | AE AP=0.882 | Ensemble ML AP=0.790 | Hibrida AP=0.980
+   seed 1: Aturan AP=0.804 | IF AP=0.169 | LOF AP=0.135 | AE AP=0.860 | Ensemble ML AP=0.717 | Hibrida AP=0.963
+   seed 2: Aturan AP=0.819 | IF AP=0.180 | LOF AP=0.161 | AE AP=0.881 | Ensemble ML AP=0.786 | Hibrida AP=0.976
+   seed 3: Aturan AP=0.810 | IF AP=0.178 | LOF AP=0.133 | AE AP=0.860 | Ensemble ML AP=0.733 | Hibrida AP=0.965
+   seed 4: Aturan AP=0.822 | IF AP=0.181 | LOF AP=0.136 | AE AP=0.875 | Ensemble ML AP=0.787 | Hibrida AP=0.977
+   seed 5: Aturan AP=0.819 | IF AP=0.176 | LOF AP=0.109 | AE AP=0.837 | Ensemble ML AP=0.719 | Hibrida AP=0.975
+   seed 6: Aturan AP=0.816 | IF AP=0.172 | LOF AP=0.129 | AE AP=0.842 | Ensemble ML AP=0.731 | Hibrida AP=0.975
+   seed 7: Aturan AP=0.814 | IF AP=0.178 | LOF AP=0.130 | AE AP=0.841 | Ensemble ML AP=0.736 | Hibrida AP=0.979
+   seed 8: Aturan AP=0.816 | IF AP=0.180 | LOF AP=0.138 | AE AP=0.833 | Ensemble ML AP=0.691 | Hibrida AP=0.964
+   seed 9: Aturan AP=0.827 | IF AP=0.185 | LOF AP=0.122 | AE AP=0.912 | Ensemble ML AP=0.789 | Hibrida AP=0.976
+[8] PR-AUC mean: {'Aturan': 0.817, 'IF': 0.178, 'LOF': 0.133, 'AE': 0.862, 'Ensemble ML': 0.748, 'Hibrida': 0.973}
+[8] Friedman chi2=50.00 p=1.39e-09
+[9] ablasi selesai
+[10] riil: aturan 10,103 | ML 14,348 | ML-saja 2,068
+[11] gambar selesai
