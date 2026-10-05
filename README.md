@@ -1,6 +1,8 @@
 # Penelitian 4 — Deteksi Anomali Transaksi & Kualitas Data SAMSAT (PKB Banten)
 
 Penulis: **Ahmad Dedi Jubaedi** (korespondensi, Universitas Serang Raya), **Saleh Dwiyatno** (Universitas Serang Raya), **Rahmat** (AMIK Serang)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dediunsera/Machine-Learning-Deteksi-Anomali-PKB/blob/main/PKB_Anomali_SAMSAT_Colab.ipynb)
 Jurnal sasaran: **INOVATIF – Jurnal Inovasi Teknologi Informasi dan Informatika** (Universitas Ibn Khaldun Bogor), template `Template Inovatif 2022 ok.doc`.
 
 ## Ringkasan
